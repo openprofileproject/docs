@@ -8,3 +8,4 @@
 
 * [Usernames](for-oprplus-members/usernames.md)
 * [API (for Keyoxide)](for-oprplus-members/api-for-keyoxide.md)
+* [Badge](for-oprplus-members/badge.md)
