@@ -1,29 +1,47 @@
----
-description: describes how to a get a custom shortened url.
----
+# OpenProfile+
 
-# custom links
+#### What is OpenProfile+?
 
-contact links@openprofile.is-cool.dev with the title "Custom URL in OpenProfile". in the email, include:
+OpenProfile+ (or opr+ for short) is a special membership for OpenProfile which unlocks special features, like API support, and a badge on your card.
 
-* the custom link
-* your base62 encoded user id
-* your current short link
+#### One word. Pricing.
 
-an example is:
+It's %100 free! We don't even have permission to charge you money!
 
-> subject line: Custom URL in OpenProfile
+#### Give me a list of special features.
+
+* API support
+* [Keyoxide](https://keyoxide.org) support with the API
+* Custom usernames for opr.ix.tc (e.g. https://opr.ix.tc/example)
+* A badge on your card (This user is a OpenProfile+ member.)
+
+#### How do I get it?
+
+Contact plus@openprofile.is-cool.dev with the title "OpenProfile+ registration". In the email, include:
+
+* Your email
+* Your name
+* Your base62-encoded user ID (a.k.a. card)
+
+
+
+An example is:
+
+> subject:  OpenProfile+ registration
 >
 >
 >
-> Hello. I want to get a custom URL.
+> Hello. I want to register for OpenProfile+.
 >
 > Here is my info:
 >
-> * Custom link: https://opr.ix.tc/example
+> * Name: exampleuser123
+> * Email: randomstuff@example.com
 > * Base62 encoded user ID: BSqIIotbFSQPPko2wsQi4hf9Y3rMfHtZaeyDomnrMUPXHjwOFmaMLPt8BN5YIFBKdQHJSpqXi9sU6aOEJTMLNEmsZG648wOIvAKJ34OwUKmsgJniw45nbbYLzP2FEn5mSKWu3vO6tNYVyzj10mmWL0LTf1z69Pkef5xSYdne6nPVAZGkE0BaiInayFW01bl0uEbnPCPMSo0kItUBwuM3BHK4wORGLBeh2P9LR5mCIfEBZDGAPpS9gv3xbqjJFh5T54pfcAAyTMzEchw9nulrzgVsE2XGEIxtld4AYBgm4aYlSgpTup5o3BdVcIYsBqQK1zrn8h651CoSREKvSV
-> * Current link: [https://opr.ix.tc/5IHwHD](https://opr.ix.tc/5IHwHD)
 >
 > have a good day!
 
-see how easy it is. get yours now. after you've emailed the team, expect a reply within 48 hours or less.
+After you've emailed the team, expect a reply within 48 hours or less.
+
+
+
