@@ -1,47 +1,25 @@
-# OpenProfile+
+# Creating a profile
 
-#### What is OpenProfile+?
-
-OpenProfile+ (or opr+ for short) is a special membership for OpenProfile which unlocks special features, like API support, and a badge on your card.
-
-#### One word. Pricing.
-
-It's %100 free! We don't even have permission to charge you money!
-
-#### Give me a list of special features.
-
-* API support
-* [Keyoxide](https://keyoxide.org) support with the API
-* Custom usernames for opr.ix.tc (e.g. https://opr.ix.tc/example)
-* A badge on your card (This user is a OpenProfile+ member.)
-
-#### How do I get it?
-
-Contact plus@openprofile.is-cool.dev with the title "OpenProfile+ registration". In the email, include:
-
-* Your email
-* Your name
-* Your base62-encoded user ID (a.k.a. card)
+In this tutorial, you will create an OpenProfile card and share it with friends. Let's get started!
 
 
 
-An example is:
+1. First, go to [https://openprofile.is-cool.dev](https://openprofile.is-cool.dev). This is the web app that you will create your card in. It's online, so you don't need to download external software.
+2. Pick a default avatar. As of writing, the options are:&#x20;
 
-> subject:  OpenProfile+ registration
->
->
->
-> Hello. I want to register for OpenProfile+.
->
-> Here is my info:
->
-> * Name: exampleuser123
-> * Email: randomstuff@example.com
-> * Base62 encoded user ID: BSqIIotbFSQPPko2wsQi4hf9Y3rMfHtZaeyDomnrMUPXHjwOFmaMLPt8BN5YIFBKdQHJSpqXi9sU6aOEJTMLNEmsZG648wOIvAKJ34OwUKmsgJniw45nbbYLzP2FEn5mSKWu3vO6tNYVyzj10mmWL0LTf1z69Pkef5xSYdne6nPVAZGkE0BaiInayFW01bl0uEbnPCPMSo0kItUBwuM3BHK4wORGLBeh2P9LR5mCIfEBZDGAPpS9gv3xbqjJFh5T54pfcAAyTMzEchw9nulrzgVsE2XGEIxtld4AYBgm4aYlSgpTup5o3BdVcIYsBqQK1zrn8h651CoSREKvSV
->
-> have a good day!
+* 404: no avatar if no avatar is associated with the email provided.
+* identicon: random geometric shapes if no avatar is associated with the email provided.
+* retro: random retro-style image made out of squares and rectangles no avatar is associated with the email provided. looks like github's default avatar.
+* mm: a human silhouette if no avatar is associated with the email provided.
+* pagan: similar to identicon.
+* monsterid: creative 2d random monster if no avatar is associated with the email provided.
+* robohash: similar to monsterid.
 
-After you've emailed the team, expect a reply within 48 hours or less.
+3. Fill out the details you want on the form. A name is required in all cases, and an email address is required if you want to use an avatar.
+4. Click "Generate". It will generate a unique user ID for you.
+5. After that, click "View Profile". It will redirect you to your card.
+6. Congrats! You just created your very own OpenProfile card in 5 steps! Now you can copy the card URL and share it with your friends! [Here is an example :)](https://opr.ix.tc/sctech)
 
+### What's next?
 
-
+You can try out the [adding-your-avatar.md](for-everyone/adding-your-avatar.md "mention") tutorial, which teaches you how to add an avatar to your card! Thanks for reading, and bye!
