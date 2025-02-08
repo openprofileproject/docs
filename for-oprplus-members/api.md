@@ -1,11 +1,11 @@
-# API (for Keyoxide)
+# API
 
-Contact api-kyx@openprofile.is-cool.dev with the title "API in OpenProfile+". In the email, include:
+Contact api@openprofile.is-cool.dev with the title "API in OpenProfile+". In the email, include:
 
 * [Your custom username](usernames.md)
 * Your base62-encoded user ID
 * Your OpenProfile+ ID
-* Your OpenPGP or ASPE key for Keyoxide
+* Your OpenPGP or ASPE key
 
 An example is:
 

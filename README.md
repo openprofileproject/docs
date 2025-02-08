@@ -11,7 +11,7 @@ In this tutorial, you will create an OpenProfile card and share it with friends.
 * identicon: random geometric shapes if no avatar is associated with the email provided.
 * retro: random retro-style image made out of squares and rectangles no avatar is associated with the email provided. looks like github's default avatar.
 * mm: a human silhouette if no avatar is associated with the email provided.
-* pagan: similar to identicon.
+* pagan: similar to identicon, but more human-like
 * monsterid: creative 2d random monster if no avatar is associated with the email provided.
 * robohash: similar to monsterid.
 
