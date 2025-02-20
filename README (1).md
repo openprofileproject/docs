@@ -11,8 +11,7 @@ It's %100 free! We don't even have permission to charge you money!
 #### Give me a list of special features.
 
 * API support
-* [Keyoxide](https://keyoxide.org) support with the API
-* Custom usernames for opr.ix.tc (e.g. https://opr.ix.tc/example)
+* Access to the[ link shortener](https://opr.ix.tc) (e.g. https://opr.ix.tc/example)
 * A badge on your card (This user is a OpenProfile+ member.)
 
 #### How do I get it?
@@ -27,7 +26,7 @@ Contact plus@openprofile.is-cool.dev with the title "OpenProfile+ registration".
 
 An example is:
 
-> subject:  OpenProfile+ registration
+> subject: OpenProfile+ registration
 >
 >
 >

@@ -2,7 +2,7 @@
 
 Contact badges@openprofile.is-cool.dev with the title "Badge in OpenProfile+". In the email, include:
 
-* [Your custom username](usernames.md)
+* Yo[ur link shortener URL](usernames.md)
 * Your base62-encoded user ID
 * Your OpenProfile+ ID
 
