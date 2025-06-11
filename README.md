@@ -22,4 +22,4 @@ In this tutorial, you will create an OpenProfile card and share it with friends.
 
 ### What's next?
 
-You can try out the [adding-your-avatar.md](for-everyone/adding-your-avatar.md "mention") tutorial, which teaches you how to add an avatar to your card! Thanks for reading, and bye!
+You can try out the [adding-your-avatar.md](guides/adding-your-avatar.md "mention") tutorial, which teaches you how to add an avatar to your card! Thanks for reading, and bye!
