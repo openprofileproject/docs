@@ -18,7 +18,7 @@ In this tutorial, you will create an OpenProfile card and share it with friends.
 3. Fill out the details you want on the form. A name is required in all cases, and an email address is required if you want to use an avatar.
 4. Click "Generate". It will generate a unique user ID for you.
 5. After that, click "View Profile". It will redirect you to your card.
-6. Congrats! You just created your very own OpenProfile card in 5 steps! Now you can copy the card URL and share it with your friends! [Here is an example :)](https://opr.ix.tc/sctech)
+6. Congrats! You just created your very own OpenProfile card in 5 steps! Now you can copy the card URL and share it with your friends! [Here is an example :)](https://opr.k.vu/sctech)
 
 ### What's next?
 
