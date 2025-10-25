@@ -1,6 +1,6 @@
 # Shortened Links
 
-Contact links@openprofile.is-cool.dev with the title "Shortened link". In the email, include:
+Contact openprofile@sctech.qzz.io with the title "Shortened link". In the email, include:
 
 * The link you want
 * Your base62-encoded user ID
@@ -8,8 +8,6 @@ Contact links@openprofile.is-cool.dev with the title "Shortened link". In the em
 An example is:
 
 > subject: Shortened link
->
->
 >
 > Hello. I want to get a shortened link.
 >

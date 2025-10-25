@@ -10,7 +10,7 @@ You need:
 2. Paste these lines of code in your HTML source:
 
 ```html
-<iframe src="https://openprofile.is-cool.dev/embed?user_id=USER_ID" width="600" height="750"></iframe>
+<iframe src="https://openprofile.dpdns.org/embed?user_id=USER_ID" width="600" height="750"></iframe>
 ```
 
 3. Replace the `src`attribute with your card's URL.
